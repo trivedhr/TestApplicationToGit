@@ -14,6 +14,7 @@ namespace TestApplicationToGit
         [STAThread]
         static void Main()
         {
+            //editing in git repo through Edit file.
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
